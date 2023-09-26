@@ -1,0 +1,27 @@
+{
+    "name": "int64-node",
+    "description": "Support for representing 64-bit integers in JavaScript",
+    "url": "http://github.com/pb2204/Int64-Node",
+    "keywords": [
+        "math",
+        "integer",
+        "int64"
+    ],
+    "author": "Pabitra Banerjee <rockstarpabitra2204@gmail.com>",
+    "contributors": [],
+    "dependencies": {},
+    "license": "MIT",
+    "lib": ".",
+    "main": "./64Int.js",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "nodeunit test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pb2204/Int64-Node"
+    },
+    "devDependencies": {
+        "nodeunit": "^0.9.0"
+    }
+}
