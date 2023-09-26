@@ -13,7 +13,7 @@
     "license": "MIT",
     "lib": ".",
     "main": "./64Int.js",
-    "version": "1.0.0",
+    "version": "1.0.5",
     "scripts": {
         "test": "nodeunit test.js"
     },
